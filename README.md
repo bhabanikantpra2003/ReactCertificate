@@ -16,7 +16,7 @@
 2. **Blog Platform:** A blogging platform with user authentication, post creation, and comment sections.
 3. **Task Manager:** A task management application with CRUD operations and task categorization.
 
-![React Certificate](/reactCertificate.jpg)
+![React Certificate](/react_certificate.jpg)
 
 ---
 
